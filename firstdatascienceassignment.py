@@ -8,7 +8,10 @@
 {
 "cell_type":"markdown",
 "source":"<center>\n   
-<img src=\"https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0105EN-SkillsNetwork/labs/Module2/images/SN_web_lightmode.png\" width=\"300\" alt=\"cognitiveclass.ai logo\">\n</center>\n","metadata":{}},{
+<img src=\"https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0105EN-SkillsNetwork/labs/Module2/images/SN_web_lightmode.png\" width=\"300\" alt=\"cognitiveclass.ai logo\">\n</center>\n",
+"metadata":{}}
+,
+{
 {
 "cell_type":"markdown",
 "source":"",
@@ -16,9 +19,11 @@
 },
 {
 "cell_type":"code","source":"","metadata":{"trusted":true},"outputs":[],"execution_count":null},{
-"cell_type":"markdown","source":"**Exercise 2 - Create a markdown cell with the title of the notebook.(1 pt)**","metadata":{}},
+"cell_type":"markdown","source":"**Exercise 2 - Create a markdown cell with the title of the notebook.(1 pt)**",
+"metadata":{}},
 {
-"cell_type":"markdown","source":"<H1>Data Science Tools and Ecosystem<H1>","metadata":{}},
+"cell_type":"markdown","source":"<H1>Data Science Tools and Ecosystem<H1>",
+"metadata":{}},
 {
 "cell_type":"markdown",
 "source":"**Exercise 3 - Create a markdown cell for an introduction**",
@@ -38,11 +43,14 @@
 {
 "cell_type":"markdown",
 "source":"<li>List mostly versatile languages that Data Scientists use.</li>\n<li>List frequently used libraries used by Data Scientists.</li>\n
-<li>Monitoring the uses of Data Science tools.
-</li>","metadata":{}
-},{
+<li>Monitoring the uses of Data Science tools.</li>"
+,
+"metadata":{}
+},
+{
 "cell_type":"markdown",
-"source":"**Exercise 4 - Create a markdown cell to list Data Science Languages**","metadata":{}
+"source":"**Exercise 4 - Create a markdown cell to list Data Science Languages**",
+"metadata":{}
 },
 {
 "cell_type":"markdown",
@@ -56,7 +64,14 @@
 },
 {
 "cell_type":"markdown",
-"source":"Some of the commonly used libraries that Data Scientists use are:\n\n1. NumPy\n2. SciPy\n3. PyTorch\n4. Seaborn\n5. Pandas\n6. Matplotlib",
+"source":"Some of the commonly used libraries that Data Scientists use are:
+\n
+\n1. NumPy
+\n2. SciPy
+\n3. PyTorch
+\n4. Seaborn
+\n5. Pandas
+\n6. Matplotlib",
 "metadata":{"tags":[],"editable":true,"slideshow":{"slide_type":""}}
 },
 {
